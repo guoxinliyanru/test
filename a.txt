@@ -1,3 +1,4 @@
 a
 b
-user_b ĞŞ¸Ä
+user_b
+user_a guoxin
